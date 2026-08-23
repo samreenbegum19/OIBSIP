@@ -48,3 +48,24 @@ If GitHub Pages is enabled, the project can be viewed here:
 `https://your-username.github.io/OIBSIP/WebDevelopment-Level1-LandingPage/`  
 
 ---
+# Personal Portfolio (OASIS Infobyte Internship level 2)
+
+## Description
+This is my personal portfolio website created as part of the OASIS Infobyte Internship Task 2.  
+It showcases my About Me, Skills, Projects, and Contact sections.
+
+## Technologies Used
+- HTML
+- CSS
+
+## Features
+- Clean and responsive design
+- About Me section
+- Skills section
+- Projects section
+- Contact section
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Personal-Portfolio.git
