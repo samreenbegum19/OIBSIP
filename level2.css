@@ -1,0 +1,174 @@
+/* Reset default margins and set base font */
+body {
+    margin: 0; /* Removes default browser margin */
+    font-family: Arial, sans-serif; /* Sets font style */
+    line-height: 1.6; /* Improves readability */
+}
+
+/* Styling for the Hero/Profile section */
+header {
+    background: #333; /* Dark background color */
+    color: #fff;      /* White text color */
+    text-align: center; /* Centers all text */
+    padding: 60px 20px; /* Space around content */
+}
+
+/* Profile image styling */
+header img {
+    width: 120px;       /* Image width */
+    height: 120px;      /* Image height */
+    border-radius: 50%; /* Makes image circular */
+    margin-bottom: 20px; /* Space below image */
+}
+
+/* Name styling */
+header h1 {
+    margin: 0;          /* Removes default margin */
+    font-size: 2.5em;   /* Large font size for name */
+}
+
+/* Role/title styling */
+header p {
+    font-size: 1.2em;   /* Slightly larger text */
+    color: #ddd;        /* Light gray color for contrast */
+}
+/* General body styling */
+body {
+    margin: 0; /* Removes default browser margin */
+    font-family: Arial, sans-serif; /* Sets font style */
+    line-height: 1.6; /* Improves readability */
+}
+
+/* About Me section styling */
+#about {
+    padding: 40px 20px;       /* Space around content */
+    text-align: center;       /* Center text */
+    background-color: #f9f9f9; /* Light background for contrast */
+}
+
+#about h2 {
+    font-size: 2em;           /* Heading size */
+    margin-bottom: 20px;      /* Space below heading */
+    color: #333;              /* Dark text color */
+}
+
+#about p {
+    max-width: 600px;         /* Limit width for readability */
+    margin: 0 auto;           /* Center paragraph */
+    font-size: 1.1em;         /* Slightly larger text */
+    color: #444;              /* Dark gray text */
+}
+/* Skills section styling */
+#skills {
+    padding: 40px 20px;       /* Space around content */
+    text-align: center;       /* Center text */
+    background-color: #fff;   /* White background */
+}
+
+#skills h2 {
+    font-size: 2em;           /* Heading size */
+    margin-bottom: 20px;      /* Space below heading */
+    color: #333;              /* Dark text color */
+}
+
+/* Skills list styling */
+#skills ul {
+    list-style: none;         /* Remove default bullets */
+    padding: 0;               /* Remove default padding */
+    display: inline-block;    /* Keep list centered */
+}
+
+#skills li {
+    display: inline-block;    /* Show items side by side */
+    margin: 10px 15px;        /* Space between items */
+    padding: 10px 20px;       /* Space inside each skill box */
+    background: #f0f0f0;      /* Light gray background */
+    border-radius: 5px;       /* Rounded corners */
+    font-size: 1.1em;         /* Slightly larger text */
+    color: #444;              /* Dark gray text */
+}
+/* Projects section styling */
+#projects {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+#projects h2 {
+    font-size: 2em;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+/* Project card styling */
+.project-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    text-align: left;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.project-card h3 {
+    margin-top: 0;
+    color: #222;
+}
+
+.project-card p {
+    color: #555;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.project-card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project-card a:hover {
+    text-decoration: underline;
+}
+/* Contact section styling */
+#contact {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #333; /* Dark background */
+    color: #fff;            /* White text */
+}
+
+#contact h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+#contact p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+#contact ul {
+    list-style: none; /* Remove bullets */
+    padding: 0;
+}
+
+#contact li {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+#contact a {
+    color: #00ccff; /* Bright link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
